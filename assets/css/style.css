@@ -172,3 +172,6 @@ h3 {
 a:hover {
 	color:red;
 }
+.bio-text {
+	line-height: 24px;
+}
