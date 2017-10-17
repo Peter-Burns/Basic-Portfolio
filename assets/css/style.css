@@ -133,10 +133,13 @@ label {
 }
 .title-bar {
 	height:20px;
-	width:200px;
+	width:180px;
+	padding: 10px;
 	position:absolute;
 	background: #4aaaa5;
 	text-align:center;
+	font-weight:bold;
+	font-size:18px;
 }
 .title-bar-1 {
 	bottom:-140px;
