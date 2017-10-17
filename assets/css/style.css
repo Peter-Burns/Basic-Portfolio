@@ -115,12 +115,20 @@ input[type=submit]:hover {
 label {
 	color: #777777;
 }
+.portfolio-pic-container {
+	width:500px;
+	margin:0 auto;
+}
 .portfolio-pic
 {
 	position:relative;
 }
-.portfolio-img {
-	float:left;
+.portfolio-img-left {
+	float: left;
+	margin:10px;
+}
+.portfolio-img-right {
+	float: right;
 	margin:10px;
 }
 .title-bar {
@@ -136,7 +144,7 @@ label {
 }
 .title-bar-2 {
 	bottom:-140px;
-	left:230px;
+	left:290px;
 }
 .title-bar-3 {
 	bottom:-310px;
@@ -144,7 +152,7 @@ label {
 }
 .title-bar-4 {
 	bottom:-310px;
-	left:230px;
+	left:290px;
 }
 .title-bar-5 {
 	bottom:-480px;
