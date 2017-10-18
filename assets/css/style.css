@@ -35,7 +35,9 @@ h1 {
 	border-bottom:thick solid #dddddd; 
 }
 body {
+	position:relative;
 	clear: both;
+	overflow-y: scroll;
 	background-image: url("../images/vintage-concrete.png");
 }
 article {
